@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "title": "wassup",
+    "description": "yippee i made a blog!",
     "author": [
       {
         "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "url": "https://colebonino.github.io/Testblog/"
       }
     ],
     "date": "2021-04-29",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nhi\r\nthis is me writing my first post yeehaw cowboy\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-04-29T09:08:19-04:00",
-    "input_file": {}
+    "last_modified": "2021-04-29T09:22:19-04:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
