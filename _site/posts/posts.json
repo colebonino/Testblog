@@ -5,7 +5,7 @@
     "description": "yippee i made a blog!",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "Cole Bonino",
         "url": "https://colebonino.github.io/Testblog/"
       }
     ],
@@ -13,7 +13,24 @@
     "categories": [],
     "contents": "\r\nhi\r\nthis is me writing my first post yeehaw cowboy\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-04-29T09:22:19-04:00",
+    "last_modified": "2021-04-29T09:31:28-04:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/secondpost/",
+    "title": "second post",
+    "description": "description yada yada",
+    "author": [
+      {
+        "name": "Cole Bonino",
+        "url": "https://colebonino.github.io/Testblog/"
+      }
+    ],
+    "date": "2021-04-29",
+    "categories": [],
+    "contents": "\r\nsecond post here\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-29T09:45:51-04:00",
+    "input_file": "second.utf8.md"
   }
 ]

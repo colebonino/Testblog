@@ -1,7 +1,7 @@
 ---
-title: "wassup"
+title: "second post"
 description: |
-  yippee i made a blog!
+  description yada yada
 author:
   - name: Cole Bonino 
     url: https://colebonino.github.io/Testblog/
@@ -21,6 +21,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-# hi
-this is me writing my first post yeehaw cowboy
+second post here
 
